@@ -1,0 +1,20 @@
+ [
+    {
+        "id": 1,
+        "name": "Maksim Koshelenko",
+        "company": "Valtech NL",
+        "phone": "9876543210"
+    },
+    {
+        "id": 2,
+        "name": "Olha Vasilets",
+        "company": "Valtech DN",
+        "phone": "0123456789"
+    },
+    { 
+        "id": 3,
+        "name": "Test Dude",
+        "company": "SEA",
+        "phone": "0000000000"
+    }
+ ]
