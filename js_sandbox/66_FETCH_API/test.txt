@@ -1,0 +1,19 @@
+This is list of WorldSBK riders:
+1	United Kingdom Jonathan Rea	Kawasaki ZX-10RR	Kawasaki Racing Team WorldSBK
+2	United Kingdom Leon Camier	Honda CBR1000RR	Moriwaki-Althea HONDA Racing Team
+7	United Kingdom Chaz Davies	Ducati Panigale V4 R	ARUBA.IT Racing - Ducati
+11	Germany Sandro Cortese	Yamaha YZF R1	GRT Yamaha WorldSBK
+19	Spain Alvaro Bautista	Ducati Panigale V4 R	ARUBA.IT Racing - Ducati
+21	Italy Michael Ruben Rinaldi	Ducati Panigale V4 R	BARNI Racing Team
+22	United Kingdom Alex Lowes	Yamaha YZF R1	Pata Yamaha WorldSBK Team
+23	Japan Ryuichi Kiyonari	Honda CBR1000RR	Moriwaki-Althea HONDA Racing Team
+28	Germany Markus Reiterberger	BMW S1000 RR	BMW Motorrad WorldSBK Team
+33	Italy Marco Melandri	Yamaha YZF R1	GRT Yamaha WorldSBK
+36	Argentina Leandro Mercado	Kawasaki ZX-10RR	Orelac Racing VerdNatura
+50	Ireland Eugene Laverty	Ducati Panigale V4 R	Team Goeleven
+52	Italy Alessandro Delbianco	Honda CBR1000RR	Althea Mie Racing Team
+54	Turkey Toprak Razgatlioglu	Kawasaki ZX-10RR	Turkish Puccetti Racing
+60	Netherlands Michael van der Mark	Yamaha YZF R1	Pata Yamaha WorldSBK Team
+66	United Kingdom Tom Sykes	BMW S1000 RR	BMW Motorrad WorldSBK Team
+81	Spain Jordi Torres	Kawasaki ZX-10RR	Team Pedercini Racing
+91	United Kingdom Leon Haslam	Kawasaki ZX-10RR	Kawasaki Racing Team WorldSBK
