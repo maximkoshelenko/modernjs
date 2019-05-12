@@ -9,7 +9,7 @@ function nameIterator(names) {
         next: function () {
             return nextIndex < names.length ?
                 { value: names[nextIndex++], done: false } :
-                { done: false }
+                { done: true }
         }
     }
 }
