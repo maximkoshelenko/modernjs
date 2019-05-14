@@ -27,7 +27,7 @@ const person = {
     }
 }
 
-// // Old ES5
+// Old ES5
 // const name = person.name,
 //     age = person.age,
 //     city = person.city,
