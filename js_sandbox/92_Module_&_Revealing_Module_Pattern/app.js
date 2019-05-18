@@ -11,22 +11,22 @@
 // })();
 
 // STANDARD MODULE PATTERN
-// const UICtrl = (function (){
-//     let text = 'Hello World';
+const UICtrl = (function (){
+    let text = 'Hello World';
 
-//     const changeText = function () {
-//         const element = document.querySelector('h1');
-//         element.textContent = text;
-//     }
+    const changeText = function () {
+        const element = document.querySelector('h1');
+        element.textContent = text;
+    }
 
-//     return {
-//         callChangeText: function() {
-//             changeText();
-//         }
-//     }
-// })();
+    return {
+        callChangeText: function() {
+            changeText();
+        }
+    }
+})();
 
-// UICtrl.callChangeText();
+UICtrl.callChangeText();
 
 // REVEALING MODULE PATTERN
 const ItemCtrl = (function () {
@@ -50,5 +50,4 @@ const ItemCtrl = (function () {
 })();
 
 ItemCtrl.add({id: 1, name: 'John'});
-
 console.log(ItemCtrl.get(1));
