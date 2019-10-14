@@ -30,6 +30,17 @@ class UI {
         });
         this.post.innerHTML = output; 
     }
+
+    // showAlert(message, className){
+    //     this.clearAlert();
+
+
+    // }
+
+    clearFields() {
+        this.titleInput.value = '';
+        this.bodyInput.value = '';
+    }
 }
 
 export const ui = new UI();
