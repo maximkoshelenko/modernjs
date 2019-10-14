@@ -1,5 +1,5 @@
 /*
-Easy HTTP Library V3 
+Easy HTTP Library V3
 */
 class EasyHTTP {
 
@@ -48,3 +48,5 @@ class EasyHTTP {
         return 'Resource Deleted...';
     }
 }
+
+export const http = new EasyHTTP();
