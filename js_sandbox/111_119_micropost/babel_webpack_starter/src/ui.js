@@ -105,8 +105,8 @@ class UI {
             this.postSubmit.className = 'post-submit btn btn-primary btn-block';
 
             // Remove cancel button if it there
-            if (document.queryCommandValue('.post-cancel')) {
-                document.queryCommandValue('.post-cancel').remove();
+            if (document.querySelector('.post-cancel')) {
+                document.querySelector('.post-cancel').remove();
             }
             // Clear ID from hidden field
             this.clearIdInput();
